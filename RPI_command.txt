@@ -1,5 +1,5 @@
 sudo apt update
-sudo apt upgrade 
+sudo apt upgrade      #Type "Y" to start installation
 sudo mv /usr/lib/python3.11/EXTERNALLY-MANAGED /usr/lib/python3.11/EXTERNALLY-MANAGED.old
 sudo pip3 install opencv-python
 sudo pip3 install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2
