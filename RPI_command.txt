@@ -11,3 +11,6 @@ python
 import cv2   
 print(cv2.__version__)
 
+#colab link
+#https://colab.research.google.com/drive/1fdM90JgD8fkw4_cbRx8Kc6FLVemj5job?usp=sharing
+
