@@ -9,7 +9,7 @@ import importlib.util
 #add custom command
 from gpiozero import LED
 from time import sleep
-red = LED(12)
+#red = LED(12)
 gpio = LED(17)
 
 cap = cv2.VideoCapture(0)
