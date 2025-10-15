@@ -1,13 +1,13 @@
 #installation of OpenCV and YOLO
 sudo apt update
 sudo apt upgrade      #Type "Y" to start installation
-sudo mv /usr/lib/python3.11/EXTERNALLY-MANAGED /usr/lib/python3.11/EXTERNALLY-MANAGED.old
+sudo mv /usr/lib/python3.13/EXTERNALLY-MANAGED /usr/lib/python3.13/EXTERNALLY-MANAGED.old
 sudo pip3 install opencv-python
-sudo pip3 install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2
 sudo pip3 install ultralytics
 
-#Verify OpenCV installation
+#Verify OpenCV installation in terminal
 python
 import cv2   
 print(cv2.__version__)
+
 
