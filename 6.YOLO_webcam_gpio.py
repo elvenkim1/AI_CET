@@ -25,7 +25,7 @@ while True:
     success, img = cap.read()
     results = model.predict(img, conf = 0.20 )
     
-    red.on()
+   # red.on()
     gpio.on()
     
     for r in results:
