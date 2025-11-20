@@ -4,3 +4,6 @@ https://colab.research.google.com/drive/1fdM90JgD8fkw4_cbRx8Kc6FLVemj5job?usp=sh
 
 GroundingDINO
 https://colab.research.google.com/drive/1ea5rrTKsQnOdvw0nONaiRoIxxjf15t_C?usp=sharing
+
+YOLO-World
+https://colab.research.google.com/drive/1OTnoCCPnbnsNwWiWgsGqhsSgD-wvgDX-?usp=sharing
