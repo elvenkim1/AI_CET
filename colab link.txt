@@ -7,3 +7,6 @@ https://colab.research.google.com/drive/1ea5rrTKsQnOdvw0nONaiRoIxxjf15t_C?usp=sh
 
 YOLO-World
 https://colab.research.google.com/drive/1OTnoCCPnbnsNwWiWgsGqhsSgD-wvgDX-?usp=sharing
+
+YOLO-E
+https://colab.research.google.com/drive/1PLxf0VAlcWkfmWYZ0lTEHA2DVSxYVJaj?usp=sharing
