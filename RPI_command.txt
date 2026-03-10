@@ -5,9 +5,5 @@ sudo mv /usr/lib/python3.13/EXTERNALLY-MANAGED /usr/lib/python3.13/EXTERNALLY-MA
 sudo pip3 install opencv-python
 sudo pip3 install ultralytics
 
-#Verify OpenCV installation in terminal
-python
-import cv2   
-print(cv2.__version__)
 
 
